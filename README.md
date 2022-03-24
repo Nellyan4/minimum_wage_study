@@ -6,7 +6,21 @@ Project member: Xi Yan, Pang-Cheng Liu
 ## Access to final report
 [Final report (jupyter notebook)](https://github.com/Nellyan4/minimum_wage_study/blob/main/Final.ipynb)
 
+Please open the jupyter notebook in local machine, since Altair charts are rendered via javascript, and github scrubs all javascript output from display. Unfortunately, Altair has no control over that policy
+
 [Recorded presentation in Youtube](https://youtu.be/c303cyhCUzU)
+
+## Key Findings:
+1. Although the nominal minimum wage increases throughout decades, the real minimum wage does not increase from 1968 to 2020.
+2. Democratic states generally have higher minimum wage than Republican states.
+3. Since the minimum wage on Republican States barely increases from 1970 to 2020, considering the inflation, the minimum wage workers earn less now than 1970 in Republican states.
+4. The movement of labor productivity in individual state follows the minimum wage, which indicates a positive correlation between these two measures.
+5. It is difficult to find the correlation between unemployment rate and the real minimum wage due to volatility of unemployment rate.
+
+## Implications of Findings:
+Democratic state and governors have done sufficient work to increase the minimum wage so that to protect their workers from being harm by the inflation. Yet, due to the unchanged minimum wage in many Republican states, workers in those states are harmed by earning less hourly rate from 1970 and 2020. This needs to be changed in Republican states.
+
+The increases of minimum wage could be beneficial to labor productivity, as exhibited in data. State governors should not be too afraid to increase minimum wage since the increase in labor productivity could substitute the cost for labor.
 
 ## Motivation
 
