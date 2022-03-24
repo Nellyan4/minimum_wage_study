@@ -1,6 +1,7 @@
 # minimum_wage_study
-### Project name: Study on the effect of the minimum wage
-### Project member: Xi Yan, Pang-Cheng Liu
+Project name: Study on the effect of the minimum wage
+
+Project member: Xi Yan, Pang-Cheng Liu
 
 ## Access to final report
 [Final report (jupyter notebook)](https://github.com/Nellyan4/minimum_wage_study/blob/main/Final.ipynb)
